@@ -24,7 +24,7 @@
 
 
 <div align="center"> <br>
-  Main Skills
+  <h3 align="center">Main Skills</h3>
 </div> 
 
 <div align="center"> <br> 
@@ -35,7 +35,7 @@
 
 
 <div align="center"> <br>
-  Tools
+  <h3 align="center">Tools</h3>
 </div> 
 
 <div align="center"> <br> 
@@ -49,7 +49,7 @@
 
 
 <div align="center"> <br>
-  Additional Knowledges
+  <h3 align="center">Additional Knowledges</h3>
 </div> 
 
 <div align="center"> <br> 
@@ -63,7 +63,7 @@
 
 
 <div align="center"> <br>
-  Studying at the Moment
+  <h3 align="center"> Studying at the Moment</h3>
 </div> 
 
 <div align="center"> <br> 
