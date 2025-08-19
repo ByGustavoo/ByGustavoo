@@ -18,18 +18,26 @@
 </p>
 
 
+<br>
+
+
 <div align="center"> <br>
  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> <br> 
 
 
-<br>
+<div align="center"> <br>
+  <h3 align="center">Knowledges</h3>
+</div> 
 
 
 <div align="center"> <br> 
   <img align="center" alt="guru-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="guru-spring-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="guru-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="guru-dbeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
+  <img align="center" alt="guru-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" alt="guru-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div> 
 
 
@@ -52,7 +60,7 @@
 
 
 <div align="center"> <br>
-  <h3 align="center"> Studying at the Moment</h3>
+  <h3 align="center">Studying</h3>
 </div> 
 
 
@@ -63,6 +71,7 @@
   <img align="center" alt="guru-nest.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="guru-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="guru-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="guru-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
 </div> 
 
 
