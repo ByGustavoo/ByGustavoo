@@ -75,4 +75,10 @@
 </div> 
 
 
+<div align="center"> <br> <br>
+<br><p align="center"><b>Visitor's Statistics</b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ByGustavoo}/count.svg" /></p> 
+<br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
