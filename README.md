@@ -4,15 +4,15 @@
 
 <br>
 
-<div align="center"> <br>
-  <img width="86.5%" height="250px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByGustavoo&theme=github_dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ByGustavoo&show_icons=true&count_private=true&hide_border=true&theme=github_dark" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByGustavoo&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
 <br> <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ByGustavoo&show_icons=true&count_private=true&hide_border=true&theme=github_dark" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByGustavoo&layout=compact&hide_border=true&theme=github_dark" />
+<div align="center"> <br>
+  <img width="86.5%" height="250px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByGustavoo&theme=github_dark"/>
 </div>
 
 <br> <br>
