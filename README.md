@@ -2,7 +2,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUSTAVO;I'M+20+YEARS+OLD+AND+I'M+A+JUNIOR+JAVA+DEVELOPER;I+HAVE+A+DEGREE+IN+ANALYSIS+AND+SYSTEMS+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
-<br>
+<br> <br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"><img width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
+
+<br> 
+
+<div align="center">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
+</div>
+
+<br> <br> <br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ByGustavoo&show_icons=true&count_private=true&hide_border=true&theme=github_dark" /> 
@@ -19,24 +38,7 @@
   
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByGustavoo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
-
-<div align="center"> <br>
-  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
-
-<br> <br>
-
-<div align="center"> 
-  <img align="center" alt="guru-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="guru-spring-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="guru-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="guru-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="guru-dbeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
-  <img align="center" alt="guru-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="guru-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-</div> 
-
-<br> <br> 
+<br> 
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ByGustavoo&style=flat-square&color=00bfbf" /></p> 
