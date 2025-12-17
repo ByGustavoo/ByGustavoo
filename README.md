@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center"> <br> <br>
+<div align="center"> <br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByGustavoo&theme=blueberry"/>
 </div>
 
