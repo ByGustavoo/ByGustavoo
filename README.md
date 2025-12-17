@@ -5,8 +5,9 @@
 <br> <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"><img width="12%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank" rel="noopener noreferrer"> <img width="12%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 
 <br> <br> 
 
