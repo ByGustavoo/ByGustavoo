@@ -5,7 +5,7 @@
 <br>
 
 <div align="center"> <br>
-  <img width="83.5%" height="250px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByGustavoo&theme=github_dark"/>
+  <img width="90%" height="250px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByGustavoo&theme=github_dark"/>
 </div>
 
 <br> <br>
