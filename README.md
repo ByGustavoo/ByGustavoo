@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"><img width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-<br> 
+<br> <br> 
 
 <div align="center">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">&nbsp;&nbsp;&nbsp;
