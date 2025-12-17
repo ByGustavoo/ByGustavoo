@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUSTAVO;I'M+20+YEARS+OLD+AND+I'M+A+JUNIOR+JAVA+DEVELOPER;I+HAVE+A+DEGREE+IN+ANALYSIS+AND+SYSTEMS+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
-<br> <br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"> <img width="12%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-
 <br> <br> 
 
 <div align="center">
@@ -38,6 +31,12 @@
 <br> <br> 
   
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByGustavoo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+
+<br> 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"> <img width="9%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 <br> 
 
