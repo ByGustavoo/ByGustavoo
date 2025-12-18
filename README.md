@@ -22,12 +22,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByGustavoo&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-<br> 
-
-<div align="center"> <br>
-  <img width="86%" height="250px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByGustavoo&theme=github_dark"/>
-</div>
-
 <br> <br> 
   
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByGustavoo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
