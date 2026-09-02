@@ -15,11 +15,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg">&nbsp;&nbsp;&nbsp;
 </div>
 
-<br> <br> <br> 
-  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByGustavoo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
-
-<br> 
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"> <img width="9%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
