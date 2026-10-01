@@ -24,7 +24,7 @@
 <br> 
 
 <div align="center">
-  <p align="center"><img align="center" src="https://shieldcn.dev/views/user/ByGustavoo.svg?base=739&split=true&label=Profile%20views&labelColor=555555&labelTextColor=ffffff&labelOpacity=1&color=00bfbf&valueColor=ffffff&logo=false&height=20&fontSize=11&padX=6" /></p> 
+  <p align="center"><img align="center" src="https://shieldcn.dev/views/user/ByGustavoo.svg?base=719&split=true&label=Profile%20views&labelColor=555555&labelTextColor=ffffff&labelOpacity=1&color=00bfbf&logo=false&height=22&fontSize=12&padX=8&font=geist" /></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
