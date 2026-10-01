@@ -15,16 +15,16 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg">&nbsp;&nbsp;&nbsp;
 </div>
 
-<br>
+<br> <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-chauar-correa-946168269/" target="_blank"> <img width="9%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<br> 
+<br> <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://shieldcn.dev/views/user/ByGustavoo.svg?base=719&split=true&label=Profile%20views&labelColor=555555&labelTextColor=ffffff&labelOpacity=1&color=00bfbf&logo=false&height=22&fontSize=12&padX=8&font=geist" /></p> 
+  <p align="center"><img align="center" src="https://shieldcn.dev/views/user/ByGustavoo.svg?base=716&split=true&label=Profile%20views&labelColor=555555&labelTextColor=ffffff&labelOpacity=1&color=00bfbf&valueColor=ffffff&logo=false&height=22&fontSize=12&padX=8&font=geist" /></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
