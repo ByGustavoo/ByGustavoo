@@ -24,7 +24,7 @@
 <br> 
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ByGustavoo&style=flat-square&color=00bfbf" /></p> 
+  <p align="center"><img align="center" src="https://hits.sh/github.com/ByGustavoo.svg?style=flat-square&label=Profile%20views&color=00bfbf" /></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
